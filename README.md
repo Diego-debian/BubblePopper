@@ -1,2 +1,2 @@
 # BubblePopper
-BubblePopper implementación de analytics firebase
+BubblePopper implementación de analytics firebase 2023
